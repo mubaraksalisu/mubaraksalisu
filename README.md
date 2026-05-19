@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mubarak Salisu
 
-<!--
-**mubaraksalisu/mubaraksalisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer focused on designing scalable backend systems and APIs.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Node.js
+- NestJS
+- Express.js
+- TypeScript
+- PostgreSQL
+- MongoDB
+- Docker
+- Jest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Real Estate Backend API
+Backend system for property listings, agent management, reviews, favorites, and visit scheduling.
+
+### E-commerce Backend API
+REST API for products, cart, orders, payments, and inventory management.
+
+### Realtime Chat Backend
+WebSocket-powered messaging backend with groups and unread tracking.
+
+## Currently
+Building production-ready backend portfolio projects and open to backend engineering roles.
